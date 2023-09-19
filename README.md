@@ -1,2 +1,2 @@
 # ChatBot
-ChatBot using Nueral Networks
+ChatBot using Neural Networks
